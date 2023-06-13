@@ -1,14 +1,10 @@
 {
-    "name": "RosieSkies",
+    "name": "RosieSkies Extended",
     "description": "Rosy theme with nice mountain background",
     "authors": [
         {
             "name": "Ari",
             "id": "639959347518242821"
-        },
-        {
-            "name": "NullCode1337",
-            "id": "850681500219080705"
         }
     ],
     "semanticColors": {
