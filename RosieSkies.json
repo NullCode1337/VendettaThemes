@@ -1,11 +1,15 @@
 {
     "name": "RosieSkies",
-    "description": "The same, but Rosiefied™ :3",
+    "description": "Rosy theme with nice mountain background",
     "authors": [
         {
-            "name": "Ari, NullCode1337",
+            "name": "Ari",
             "id": "639959347518242821"
-        }
+        },
+        {
+            "name": "NullCode1337",
+            "id": "850681500219080705"
+        }, 
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
@@ -134,7 +138,7 @@
        
     },
   "background": {
-    "blur": 0,
+    "blur": 50,
     "url": "https://w0.peakpx.com/wallpaper/457/82/HD-wallpaper-pinky-day-minimalist-landscape-colour-mountain-pink-purple-forest-magenta-morning-sky-sunrise-sunset-2d-gibranibang.jpg",
     "alpha": 0.28
   },
