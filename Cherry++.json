@@ -1,6 +1,6 @@
 {
-    "name": "Shiggy :3",
-    "description": ":3",
+    "name": "Cherry++",
+    "description": "Cherry-flavored theme with an adorable shiggy background, slightly modified by NullCode",
     "authors": [
         {
             "name": "Ari",
@@ -134,9 +134,9 @@
        
     },
   "background": {
-    "blur": 0,
+    "blur": 8,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112930617185796146/shiggy__3_E4C1935.png",
-    "alpha": 0.36
+    "alpha": 0.26
   },
     "spec": 2
 }
