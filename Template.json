@@ -1,0 +1,16 @@
+{
+    "name": "Template",
+    "description": "Template using any image as base",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+"background": {
+        "blur": 9,
+        "url": "https://cdn.myanimelist.net/images/characters/7/509997.jpg",
+        "alpha": 1
+    },
+    "spec": 2
+}
