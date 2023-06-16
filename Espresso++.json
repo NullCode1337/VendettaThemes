@@ -1,6 +1,6 @@
 {
-    "name": "💎",
-    "description": "Not intended for public use - uses fanart.",
+    "name": "Espresso++",
+    "description": "Chocolatey brown espresso theme, modified slightly by NullCode",
     "authors": [
         {
             "name": "Ari",
@@ -131,8 +131,8 @@
        
     },
     "background": {
-        "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112714032688943114/New_Project_9_B90C190.png",
+        "blur": 8,
+        "url": "https://cdn.discordapp.com/attachments/959480539335766036/1119325504093290567/168693840025067177.png",
         "alpha": 0.48
     },
     "spec": 2
