@@ -7,10 +7,10 @@
             "id": "850681500219080705"
         }
     ],
-"background": {
-        "blur": 7,
+    "background": {
+        "blur": 5,
         "url": "https://cdn.myanimelist.net/images/characters/7/509997.jpg",
-        "alpha": 0.52
+        "alpha": 0.3
     },
     "spec": 2
 }
