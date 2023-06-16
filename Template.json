@@ -8,9 +8,9 @@
         }
     ],
     "background": {
-        "blur": 5,
+        "blur": 0,
         "url": "https://cdn.myanimelist.net/images/characters/7/509997.jpg",
-        "alpha": 0.3
+        "alpha": 0
     },
     "spec": 2
 }
